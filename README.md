@@ -1,2 +1,4 @@
 # freeCodeCamp
-freeCodeCamp Certification Courses
+
+Hi, I’m @Siri-Harshika
+I'm doing freeCodeCamp Certifications
